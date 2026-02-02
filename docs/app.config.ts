@@ -1,17 +1,17 @@
 // https://github.com/nuxt-themes/docus/blob/main/nuxt.schema.ts
 export default defineAppConfig({
   docus: {
-    title: 'MS',
+    title: 'azlan.works',
     description: 'Documentation for my projects.',
-    image: 'https://avatars.githubusercontent.com/u/80623330?v=4',
+    image: 'https://azlan.works/_next/static/media/azlan.works-logo.fa6cfc2d.svg',
     socials: {
-      github: 'babyyoda777',
+      github: 'azlan-works',
     },
     github: {
       dir: '.starters/default/content',
       branch: 'main',
       repo: 'Docs',
-      owner: 'babyyoda777',
+      owner: 'azlan-works',
       edit: true
     },
     aside: {

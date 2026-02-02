@@ -17,5 +17,8 @@
     "@types/node": "^20.16.5",
     "eslint": "^9.10.0",
     "nuxt": "^3.13.1"
+  },
+  "dependencies": {
+    "nuxi": "^3.32.0"
   }
 }
